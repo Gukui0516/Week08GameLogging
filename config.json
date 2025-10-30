@@ -1,0 +1,8 @@
+{
+  "data_dir": "./DATA",
+  "file_pattern": "*.csv",
+  "assume_orphan_grab_counts_as_one": true,
+  "debounce_ms": 500,
+  "cache_ttl_seconds": 60,
+  "stage_filters": []
+}
