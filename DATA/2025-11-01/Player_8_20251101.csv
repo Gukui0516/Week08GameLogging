@@ -1,0 +1,668 @@
+LogType,Timestamp,Key,Value
+INFO,2025-11-01T21:25:55.531,InputGrab,GameObject
+INFO,2025-11-01T21:25:59.187,InputGrabBreak,GameObject
+INFO,2025-11-01T21:26:00.549,폭탄 GameObject을(를) 감지했습니다.,True
+INFO,2025-11-01T21:26:00.550,충돌 감지: GameObject 즉시 폭발 처리 (CollisionExplosion 모드),True
+INFO,2025-11-01T21:26:00.555,[ClimaxController] 폭발 처리 모드: CollisionExplosion for GameObject,1
+INFO,2025-11-01T21:26:00.555,[BombManager] 폭탄 GameObject이(가) 폭발했습니다.,1
+INFO,2025-11-01T21:26:00.556,[ClimaxController] 폭탄 폭발: GameObject at (-6.83, -9.39, -10.69),1
+INFO,2025-11-01T21:26:00.556,[climax]폭발 요청 폭발 진행,True
+INFO,2025-11-01T21:26:10.781,StageBegin,공구상자
+INFO,2025-11-01T21:26:10.782,InputGrab,root
+WARNING,2025-11-01T21:26:11.602,OrbitOrthoProxy,Orthographic 카메라가 아닙니다. 이 Proxy는 동작하지 않습니다.
+INFO,2025-11-01T21:26:12.942,InputGrab,NailsBomb (1)
+INFO,2025-11-01T21:26:13.919,InputGrabBreak,NailsBomb (1)
+INFO,2025-11-01T21:26:14.857,CameraRotate,"(38.00,27.75)"
+INFO,2025-11-01T21:26:15.253,InputGrab,Nails:41
+INFO,2025-11-01T21:26:15.353,InputGrabBreak,Nails:41
+INFO,2025-11-01T21:26:15.661,폭탄 NailsBomb (1)을(를) 감지했습니다.,True
+INFO,2025-11-01T21:26:15.661,충돌 감지: NailsBomb (1) 즉시 폭발 처리 (CollisionExplosion 모드),True
+INFO,2025-11-01T21:26:15.661,[ClimaxController] 폭발 처리 모드: CollisionExplosion for NailsBomb (1),1
+INFO,2025-11-01T21:26:15.661,[BombManager] 폭탄 NailsBomb (1)이(가) 폭발했습니다.,1
+INFO,2025-11-01T21:26:15.662,[ClimaxController] 폭탄 폭발: NailsBomb (1) at (15.18, -19.13, 9.81),1
+INFO,2025-11-01T21:26:15.662,[climax]폭발 요청 폭발 진행,True
+INFO,2025-11-01T21:26:15.833,InputGrab,DriverBomb
+INFO,2025-11-01T21:26:17.934,InputGrabBreak,DriverBomb
+INFO,2025-11-01T21:26:19.005,InputGrab,ClawsBomb
+INFO,2025-11-01T21:26:19.950,폭탄 DriverBomb을(를) 감지했습니다.,True
+INFO,2025-11-01T21:26:19.950,충돌 감지: DriverBomb 즉시 폭발 처리 (CollisionExplosion 모드),True
+INFO,2025-11-01T21:26:19.950,[ClimaxController] 폭발 처리 모드: CollisionExplosion for DriverBomb,1
+INFO,2025-11-01T21:26:19.950,[BombManager] 폭탄 DriverBomb이(가) 폭발했습니다.,1
+INFO,2025-11-01T21:26:19.950,[ClimaxController] 폭탄 폭발: DriverBomb at (15.17, -17.54, -1.57),1
+INFO,2025-11-01T21:26:19.950,[climax]폭발 요청 폭발 진행,True
+INFO,2025-11-01T21:26:20.973,InputGrabBreak,ClawsBomb
+INFO,2025-11-01T21:26:22.033,InputGrab,BombNail
+INFO,2025-11-01T21:26:23.243,InputGrabBreak,BombNail
+INFO,2025-11-01T21:26:23.471,폭탄 ClawsBomb을(를) 감지했습니다.,True
+INFO,2025-11-01T21:26:23.472,충돌 감지: ClawsBomb 즉시 폭발 처리 (CollisionExplosion 모드),True
+INFO,2025-11-01T21:26:23.472,[ClimaxController] 폭발 처리 모드: CollisionExplosion for ClawsBomb,1
+INFO,2025-11-01T21:26:23.472,[BombManager] 폭탄 ClawsBomb이(가) 폭발했습니다.,1
+INFO,2025-11-01T21:26:23.472,[ClimaxController] 폭탄 폭발: ClawsBomb at (11.82, -19.31, -19.95),1
+INFO,2025-11-01T21:26:23.472,[climax]폭발 요청 폭발 진행,True
+INFO,2025-11-01T21:26:24.173,InputGrab,Nails:14
+INFO,2025-11-01T21:26:25.016,InputGrabBreak,Nails:14
+INFO,2025-11-01T21:26:25.341,InputGrab,HammerBomb
+INFO,2025-11-01T21:26:26.240,폭탄 BombNail을(를) 감지했습니다.,True
+INFO,2025-11-01T21:26:26.240,충돌 감지: BombNail 즉시 폭발 처리 (CollisionExplosion 모드),True
+INFO,2025-11-01T21:26:26.240,[ClimaxController] 폭발 처리 모드: CollisionExplosion for BombNail,1
+INFO,2025-11-01T21:26:26.240,[BombManager] 폭탄 BombNail이(가) 폭발했습니다.,1
+INFO,2025-11-01T21:26:26.240,[ClimaxController] 폭탄 폭발: BombNail at (3.85, -19.40, -21.80),1
+INFO,2025-11-01T21:26:26.240,[climax]폭발 요청 폭발 진행,True
+INFO,2025-11-01T21:26:27.037,InputGrabBreak,HammerBomb
+INFO,2025-11-01T21:26:27.805,InputGrab,RingNails:20
+INFO,2025-11-01T21:26:28.276,InputGrabBreak,RingNails:20
+INFO,2025-11-01T21:26:29.097,InputGrab,RingNail:19
+INFO,2025-11-01T21:26:29.474,InputGrabBreak,RingNail:19
+INFO,2025-11-01T21:26:29.821,폭탄 HammerBomb을(를) 감지했습니다.,True
+INFO,2025-11-01T21:26:29.821,충돌 감지: HammerBomb 즉시 폭발 처리 (CollisionExplosion 모드),True
+INFO,2025-11-01T21:26:29.821,[ClimaxController] 폭발 처리 모드: CollisionExplosion for HammerBomb,1
+INFO,2025-11-01T21:26:29.821,[BombManager] 폭탄 HammerBomb이(가) 폭발했습니다.,1
+INFO,2025-11-01T21:26:29.821,[ClimaxController] 폭탄 폭발: HammerBomb at (18.06, -17.35, -28.95),1
+INFO,2025-11-01T21:26:29.821,[climax]폭발 요청 폭발 진행,True
+INFO,2025-11-01T21:26:29.997,InputGrab,RingNailBomb
+INFO,2025-11-01T21:26:31.254,InputGrabBreak,RingNailBomb
+INFO,2025-11-01T21:26:32.142,InputGrab,SpannerBomb
+INFO,2025-11-01T21:26:33.927,InputGrabBreak,SpannerBomb
+INFO,2025-11-01T21:26:34.201,폭탄 RingNailBomb을(를) 감지했습니다.,True
+INFO,2025-11-01T21:26:34.201,충돌 감지: RingNailBomb 즉시 폭발 처리 (CollisionExplosion 모드),True
+INFO,2025-11-01T21:26:34.201,[ClimaxController] 폭발 처리 모드: CollisionExplosion for RingNailBomb,1
+INFO,2025-11-01T21:26:34.201,[BombManager] 폭탄 RingNailBomb이(가) 폭발했습니다.,1
+INFO,2025-11-01T21:26:34.201,[ClimaxController] 폭탄 폭발: RingNailBomb at (-2.83, -19.28, -23.65),1
+INFO,2025-11-01T21:26:34.201,[climax]폭발 요청 폭발 진행,True
+INFO,2025-11-01T21:26:35.037,InputGrab,Claws:15
+INFO,2025-11-01T21:26:35.322,InputGrabBreak,Claws:15
+INFO,2025-11-01T21:26:35.937,InputGrab,RingNailsBomb
+INFO,2025-11-01T21:26:36.509,폭탄 SpannerBomb을(를) 감지했습니다.,True
+INFO,2025-11-01T21:26:36.510,충돌 감지: SpannerBomb 즉시 폭발 처리 (CollisionExplosion 모드),True
+INFO,2025-11-01T21:26:36.510,[ClimaxController] 폭발 처리 모드: CollisionExplosion for SpannerBomb,1
+INFO,2025-11-01T21:26:36.510,[BombManager] 폭탄 SpannerBomb이(가) 폭발했습니다.,1
+INFO,2025-11-01T21:26:36.510,[ClimaxController] 폭탄 폭발: SpannerBomb at (19.17, -19.39, -18.39),1
+INFO,2025-11-01T21:26:36.510,[climax]폭발 요청 폭발 진행,True
+INFO,2025-11-01T21:26:37.125,InputGrabBreak,RingNailsBomb
+INFO,2025-11-01T21:26:37.656,InputGrab,RingNailsBomb
+INFO,2025-11-01T21:26:39.575,InputGrabBreak,RingNailsBomb
+INFO,2025-11-01T21:26:40.461,InputGrab,NailsBomb
+INFO,2025-11-01T21:26:41.090,InputGrabBreak,NailsBomb
+INFO,2025-11-01T21:26:42.022,InputGrab,Nails:2
+INFO,2025-11-01T21:26:42.161,폭탄 RingNailsBomb을(를) 감지했습니다.,True
+INFO,2025-11-01T21:26:42.162,충돌 감지: RingNailsBomb 즉시 폭발 처리 (CollisionExplosion 모드),True
+INFO,2025-11-01T21:26:42.162,[ClimaxController] 폭발 처리 모드: CollisionExplosion for RingNailsBomb,1
+INFO,2025-11-01T21:26:42.162,[BombManager] 폭탄 RingNailsBomb이(가) 폭발했습니다.,1
+INFO,2025-11-01T21:26:42.162,[ClimaxController] 폭탄 폭발: RingNailsBomb at (18.96, -7.13, -22.46),1
+INFO,2025-11-01T21:26:42.162,[climax]폭발 요청 폭발 진행,True
+INFO,2025-11-01T21:26:42.365,InputGrabBreak,Nails:2
+INFO,2025-11-01T21:26:42.706,InputGrab,NailsBomb
+INFO,2025-11-01T21:26:43.056,InputGrabBreak,NailsBomb
+INFO,2025-11-01T21:26:43.257,InputGrab,Nails:6
+INFO,2025-11-01T21:26:43.524,InputGrabBreak,Nails:6
+INFO,2025-11-01T21:26:43.824,InputGrab,Claws:4
+INFO,2025-11-01T21:26:44.031,InputGrabBreak,Claws:4
+INFO,2025-11-01T21:26:44.432,InputGrab,NailsBomb
+INFO,2025-11-01T21:26:48.633,InputGrabBreak,NailsBomb
+INFO,2025-11-01T21:26:51.571,폭탄 NailsBomb을(를) 감지했습니다.,True
+INFO,2025-11-01T21:26:51.571,충돌 감지: NailsBomb 즉시 폭발 처리 (CollisionExplosion 모드),True
+INFO,2025-11-01T21:26:51.572,[ClimaxController] 폭발 처리 모드: CollisionExplosion for NailsBomb,1
+INFO,2025-11-01T21:26:51.572,[BombManager] 폭탄 NailsBomb이(가) 폭발했습니다.,1
+INFO,2025-11-01T21:26:51.573,[ClimaxController] 폭탄 폭발: NailsBomb at (-38.72, -18.88, 37.04),1
+INFO,2025-11-01T21:26:51.573,[climax]폭발 요청 폭발 진행,True
+INFO,2025-11-01T21:26:54.682,StageStar,2
+INFO,2025-11-01T21:26:54.682,StageClear,공구상자
+INFO,2025-11-01T21:26:55.258,CameraRotate,"(-50.25,-7.81)"
+INFO,2025-11-01T21:27:00.324,StageBegin,정전
+INFO,2025-11-01T21:27:00.325,InputGrab,root
+INFO,2025-11-01T21:27:02.013,CameraRotate,"(-3.75,33.75)"
+INFO,2025-11-01T21:27:03.203,InputGrab,Movable
+INFO,2025-11-01T21:27:04.116,InputGrabBreak,Movable
+INFO,2025-11-01T21:27:04.702,InputGrab,Bomb
+INFO,2025-11-01T21:27:05.425,InputGrabBreak,Bomb
+INFO,2025-11-01T21:27:06.356,InputGrab,Bomb
+INFO,2025-11-01T21:27:06.664,InputGrabBreak,Bomb
+INFO,2025-11-01T21:27:06.987,InputGrab,Bomb
+INFO,2025-11-01T21:27:07.290,InputGrabBreak,Bomb
+INFO,2025-11-01T21:27:07.518,InputGrab,Movable
+INFO,2025-11-01T21:27:07.773,InputGrabBreak,Movable
+INFO,2025-11-01T21:27:08.054,InputGrab,Movable
+INFO,2025-11-01T21:27:08.326,InputGrabBreak,Movable
+INFO,2025-11-01T21:27:08.564,InputGrab,Bomb
+INFO,2025-11-01T21:27:08.684,InputGrabBreak,Bomb
+INFO,2025-11-01T21:27:09.051,InputGrab,Movable
+INFO,2025-11-01T21:27:09.260,InputGrabBreak,Movable
+INFO,2025-11-01T21:27:09.449,InputGrab,Movable
+INFO,2025-11-01T21:27:09.665,InputGrabBreak,Movable
+INFO,2025-11-01T21:27:09.852,InputGrab,Movable
+INFO,2025-11-01T21:27:10.075,InputGrabBreak,Movable
+INFO,2025-11-01T21:27:10.304,InputGrab,Bomb
+INFO,2025-11-01T21:27:10.414,InputGrabBreak,Bomb
+INFO,2025-11-01T21:27:10.705,InputGrab,Bomb
+INFO,2025-11-01T21:27:10.814,InputGrabBreak,Bomb
+INFO,2025-11-01T21:27:11.089,InputGrab,Bomb
+INFO,2025-11-01T21:27:11.194,InputGrabBreak,Bomb
+INFO,2025-11-01T21:27:11.577,InputGrab,Bomb
+INFO,2025-11-01T21:27:11.794,InputGrabBreak,Bomb
+INFO,2025-11-01T21:27:12.780,CameraRotate,"(60.00,-32.75)"
+INFO,2025-11-01T21:27:13.379,InputGrab,Bomb
+INFO,2025-11-01T21:27:15.003,InputGrabBreak,Bomb
+INFO,2025-11-01T21:27:15.419,InputGrab,Movable
+INFO,2025-11-01T21:27:15.733,InputGrabBreak,Movable
+INFO,2025-11-01T21:27:16.263,CameraRotate,"(-23.25,13.00)"
+INFO,2025-11-01T21:27:16.539,InputGrab,Movable (6)
+INFO,2025-11-01T21:27:16.544,InputGrabBreak,Movable (6)
+INFO,2025-11-01T21:27:17.726,InputGrab,Movable (6)
+INFO,2025-11-01T21:27:17.734,InputGrabBreak,Movable (6)
+INFO,2025-11-01T21:27:19.290,InputGrab,Bomb
+INFO,2025-11-01T21:27:19.394,InputGrabBreak,Bomb
+INFO,2025-11-01T21:27:19.895,InputGrab,Bomb
+INFO,2025-11-01T21:27:20.064,InputGrabBreak,Bomb
+INFO,2025-11-01T21:27:20.288,InputGrab,Bomb
+INFO,2025-11-01T21:27:20.444,InputGrabBreak,Bomb
+INFO,2025-11-01T21:27:20.768,InputGrab,Bomb
+INFO,2025-11-01T21:27:20.884,InputGrabBreak,Bomb
+INFO,2025-11-01T21:27:21.299,InputGrab,Bomb
+INFO,2025-11-01T21:27:21.454,InputGrabBreak,Bomb
+INFO,2025-11-01T21:27:22.128,CameraRotate,"(-56.25,4.75)"
+INFO,2025-11-01T21:27:22.405,InputGrab,Bomb
+INFO,2025-11-01T21:27:22.785,InputGrabBreak,Bomb
+INFO,2025-11-01T21:27:23.007,InputGrab,Movable
+INFO,2025-11-01T21:27:23.334,InputGrabBreak,Movable
+INFO,2025-11-01T21:27:23.694,InputGrab,Bomb
+INFO,2025-11-01T21:27:23.804,InputGrabBreak,Bomb
+INFO,2025-11-01T21:27:24.339,InputGrab,Bomb
+INFO,2025-11-01T21:27:24.465,InputGrabBreak,Bomb
+INFO,2025-11-01T21:27:25.221,CameraRotate,"(73.00,10.00)"
+INFO,2025-11-01T21:27:25.466,InputGrab,Bomb
+INFO,2025-11-01T21:27:25.804,InputGrabBreak,Bomb
+INFO,2025-11-01T21:27:26.520,InputGrab,Bomb
+INFO,2025-11-01T21:27:26.854,InputGrabBreak,Bomb
+INFO,2025-11-01T21:27:27.249,InputGrab,Bomb
+INFO,2025-11-01T21:27:27.930,InputGrabBreak,Bomb
+INFO,2025-11-01T21:27:29.125,InputGrab,Bomb
+INFO,2025-11-01T21:27:29.694,InputGrabBreak,Bomb
+INFO,2025-11-01T21:27:30.465,폭탄 Bomb을(를) 감지했습니다.,True
+INFO,2025-11-01T21:27:30.465,충돌 감지: Bomb 즉시 폭발 처리 (CollisionExplosion 모드),True
+INFO,2025-11-01T21:27:30.465,[ClimaxController] 폭발 처리 모드: CollisionExplosion for Bomb,1
+INFO,2025-11-01T21:27:30.465,[BombManager] 폭탄 Bomb이(가) 폭발했습니다.,1
+INFO,2025-11-01T21:27:30.466,[ClimaxController] 폭탄 폭발: Bomb at (-31.94, -15.14, 18.24),1
+INFO,2025-11-01T21:27:30.466,[climax]폭발 요청 폭발 진행,True
+INFO,2025-11-01T21:27:30.552,[ClimaxController] 폭발 처리 모드: FullExplosion for Bomb,1
+INFO,2025-11-01T21:27:30.552,[BombManager] 폭탄 Bomb이(가) 폭발했습니다.,1
+INFO,2025-11-01T21:27:30.552,[ClimaxController] 폭탄 폭발: Bomb at (6.10, 2.43, 0.40),1
+INFO,2025-11-01T21:27:30.552,[climax]폭발 요청 폭발 진행,True
+INFO,2025-11-01T21:27:30.608,[ClimaxController] 폭발 처리 모드: FullExplosion for Bomb,1
+INFO,2025-11-01T21:27:30.608,[BombManager] 폭탄 Bomb이(가) 폭발했습니다.,1
+INFO,2025-11-01T21:27:30.608,[ClimaxController] 폭탄 폭발: Bomb at (6.05, 2.43, -12.36),1
+INFO,2025-11-01T21:27:30.608,[climax]폭발 요청 폭발 진행,True
+INFO,2025-11-01T21:27:30.608,[ClimaxController] 폭발 처리 모드: FullExplosion for Bomb,1
+INFO,2025-11-01T21:27:30.608,[BombManager] 폭탄 Bomb이(가) 폭발했습니다.,1
+INFO,2025-11-01T21:27:30.608,[ClimaxController] 폭탄 폭발: Bomb at (-6.85, 1.38, -10.30),1
+INFO,2025-11-01T21:27:30.608,[climax]폭발 요청 폭발 진행,True
+INFO,2025-11-01T21:27:30.609,[ClimaxController] 폭발 처리 모드: FullExplosion for Bomb,1
+INFO,2025-11-01T21:27:30.609,[BombManager] 폭탄 Bomb이(가) 폭발했습니다.,1
+INFO,2025-11-01T21:27:30.609,[ClimaxController] 폭탄 폭발: Bomb at (-6.90, 1.39, 2.47),1
+INFO,2025-11-01T21:27:30.609,[climax]폭발 요청 폭발 진행,True
+INFO,2025-11-01T21:27:30.740,[ClimaxController] 폭발 처리 모드: FullExplosion for Bomb,1
+INFO,2025-11-01T21:27:30.740,[BombManager] 폭탄 Bomb이(가) 폭발했습니다.,1
+INFO,2025-11-01T21:27:30.740,[ClimaxController] 폭탄 폭발: Bomb at (-0.45, 0.96, 6.70),1
+INFO,2025-11-01T21:27:30.740,[climax]폭발 요청 폭발 진행,True
+INFO,2025-11-01T21:27:30.741,[ClimaxController] 폭발 처리 모드: FullExplosion for Bomb,1
+INFO,2025-11-01T21:27:30.741,[BombManager] 폭탄 Bomb이(가) 폭발했습니다.,1
+INFO,2025-11-01T21:27:30.741,[ClimaxController] 폭탄 폭발: Bomb at (-6.84, 4.03, -13.17),1
+INFO,2025-11-01T21:27:30.741,[climax]폭발 요청 폭발 진행,True
+WARNING,2025-11-01T21:27:30.741,[climax]폭발 요청된 폭탄이 null이거나 이미 폭발했습니다.,True
+INFO,2025-11-01T21:27:30.805,[ClimaxController] 폭발 처리 모드: FullExplosion for Bomb,1
+INFO,2025-11-01T21:27:30.805,[BombManager] 폭탄 Bomb이(가) 폭발했습니다.,1
+INFO,2025-11-01T21:27:30.805,[ClimaxController] 폭탄 폭발: Bomb at (-3.02, 12.01, -3.97),1
+INFO,2025-11-01T21:27:30.805,[climax]폭발 요청 폭발 진행,True
+INFO,2025-11-01T21:27:30.844,CameraRotate,"(40.25,-4.75)"
+INFO,2025-11-01T21:27:30.874,[ClimaxController] 폭발 처리 모드: FullExplosion for Bomb (1),1
+INFO,2025-11-01T21:27:30.874,[BombManager] 폭탄 Bomb (1)이(가) 폭발했습니다.,1
+INFO,2025-11-01T21:27:30.874,[ClimaxController] 폭탄 폭발: Bomb (1) at (-7.61, 6.68, -1.26),1
+INFO,2025-11-01T21:27:30.874,[climax]폭발 요청 폭발 진행,True
+INFO,2025-11-01T21:27:31.001,[ClimaxController] 폭발 처리 모드: FullExplosion for Bomb (1),1
+INFO,2025-11-01T21:27:31.001,[BombManager] 폭탄 Bomb (1)이(가) 폭발했습니다.,1
+INFO,2025-11-01T21:27:31.001,[ClimaxController] 폭탄 폭발: Bomb (1) at (6.59, 7.04, -10.70),1
+INFO,2025-11-01T21:27:31.001,[climax]폭발 요청 폭발 진행,True
+INFO,2025-11-01T21:27:31.197,[ClimaxController] 폭발 처리 모드: FullExplosion for Bomb (1),1
+INFO,2025-11-01T21:27:31.197,[BombManager] 폭탄 Bomb (1)이(가) 폭발했습니다.,1
+INFO,2025-11-01T21:27:31.197,[ClimaxController] 폭탄 폭발: Bomb (1) at (5.91, 10.92, 3.58),1
+INFO,2025-11-01T21:27:31.197,[climax]폭발 요청 폭발 진행,True
+INFO,2025-11-01T21:27:31.475,[ClimaxController] 폭발 처리 모드: FullExplosion for Bomb (1),1
+INFO,2025-11-01T21:27:31.475,[BombManager] 폭탄 Bomb (1)이(가) 폭발했습니다.,1
+INFO,2025-11-01T21:27:31.475,[ClimaxController] 폭탄 폭발: Bomb (1) at (1.30, 0.95, 5.71),1
+INFO,2025-11-01T21:27:31.475,[climax]폭발 요청 폭발 진행,True
+INFO,2025-11-01T21:27:31.688,[ClimaxController] 폭발 처리 모드: FullExplosion for Bomb (2),1
+INFO,2025-11-01T21:27:31.688,[BombManager] 폭탄 Bomb (2)이(가) 폭발했습니다.,1
+INFO,2025-11-01T21:27:31.688,[ClimaxController] 폭탄 폭발: Bomb (2) at (-4.92, -1.32, 9.18),1
+INFO,2025-11-01T21:27:31.688,[climax]폭발 요청 폭발 진행,True
+INFO,2025-11-01T21:27:35.028,StageStar,0
+INFO,2025-11-01T21:27:35.028,StageClear,정전
+INFO,2025-11-01T21:27:35.234,CameraRotate,"(-118.75,-13.25)"
+INFO,2025-11-01T21:27:36.529,InputGrab,Movable (8)
+INFO,2025-11-01T21:27:36.705,InputGrabBreak,Movable (8)
+INFO,2025-11-01T21:27:38.290,StageBegin,숫자
+INFO,2025-11-01T21:27:38.291,InputGrab,root
+INFO,2025-11-01T21:27:38.308,StageConfigSetup,StageConfig를 Manual 모드로 설정하세요. 목표 폭탄 개수: 10개
+INFO,2025-11-01T21:27:38.309,[BombManager] 폭탄 0이(가) 생성되었습니다.,1
+INFO,2025-11-01T21:27:38.310,BlockToBomb,0 (Index: 0)
+INFO,2025-11-01T21:27:38.310,SequentialBombInit,초기화 완료 | 총 블록 개수: 10개
+INFO,2025-11-01T21:27:40.096,CameraRotate,"(5.75,59.75)"
+INFO,2025-11-01T21:27:40.550,InputGrab,0
+INFO,2025-11-01T21:27:40.872,InputGrabBreak,0
+INFO,2025-11-01T21:27:43.102,CameraRotate,"(96.75,-44.50)"
+INFO,2025-11-01T21:27:45.151,CameraRotate,"(41.25,-3.75)"
+INFO,2025-11-01T21:27:45.677,CameraRotate,"(-6.25,2.00)"
+INFO,2025-11-01T21:27:45.866,폭탄 0을(를) 감지했습니다.,True
+INFO,2025-11-01T21:27:45.867,충돌 감지: 0 즉시 폭발 처리 (CollisionExplosion 모드),True
+INFO,2025-11-01T21:27:45.867,[ClimaxController] 폭발 처리 모드: CollisionExplosion for 0,1
+INFO,2025-11-01T21:27:45.867,[BombManager] 폭탄 0이(가) 폭발했습니다.,1
+INFO,2025-11-01T21:27:45.867,[BombManager] 폭탄 1이(가) 생성되었습니다.,1
+INFO,2025-11-01T21:27:45.867,BlockToBomb,1 (Index: 1)
+INFO,2025-11-01T21:27:45.867,[ClimaxController] 폭탄 폭발: 0 at (167.87, -26.69, -3.92),1
+INFO,2025-11-01T21:27:45.867,[climax]폭발 요청 폭발 진행,True
+INFO,2025-11-01T21:27:46.218,InputGrab,1
+INFO,2025-11-01T21:27:46.422,InputGrabBreak,1
+INFO,2025-11-01T21:27:49.107,폭탄 1을(를) 감지했습니다.,True
+INFO,2025-11-01T21:27:49.107,충돌 감지: 1 즉시 폭발 처리 (CollisionExplosion 모드),True
+INFO,2025-11-01T21:27:49.107,[ClimaxController] 폭발 처리 모드: CollisionExplosion for 1,1
+INFO,2025-11-01T21:27:49.107,[BombManager] 폭탄 1이(가) 폭발했습니다.,1
+INFO,2025-11-01T21:27:49.107,[BombManager] 폭탄 2이(가) 생성되었습니다.,1
+INFO,2025-11-01T21:27:49.107,BlockToBomb,2 (Index: 2)
+INFO,2025-11-01T21:27:49.107,[ClimaxController] 폭탄 폭발: 1 at (-15.13, -21.73, 3.03),1
+INFO,2025-11-01T21:27:49.107,[climax]폭발 요청 폭발 진행,True
+INFO,2025-11-01T21:27:49.242,CameraRotate,"(-53.00,12.50)"
+INFO,2025-11-01T21:27:49.499,InputGrab,2
+INFO,2025-11-01T21:27:49.657,InputGrabBreak,2
+INFO,2025-11-01T21:27:51.111,CameraRotate,"(-76.75,21.00)"
+INFO,2025-11-01T21:27:52.567,폭탄 2을(를) 감지했습니다.,True
+INFO,2025-11-01T21:27:52.567,충돌 감지: 2 즉시 폭발 처리 (CollisionExplosion 모드),True
+INFO,2025-11-01T21:27:52.567,[ClimaxController] 폭발 처리 모드: CollisionExplosion for 2,1
+INFO,2025-11-01T21:27:52.567,[BombManager] 폭탄 2이(가) 폭발했습니다.,1
+INFO,2025-11-01T21:27:52.567,[BombManager] 폭탄 3이(가) 생성되었습니다.,1
+INFO,2025-11-01T21:27:52.567,BlockToBomb,3 (Index: 3)
+INFO,2025-11-01T21:27:52.567,[ClimaxController] 폭탄 폭발: 2 at (-5.96, -25.36, -14.59),1
+INFO,2025-11-01T21:27:52.567,[climax]폭발 요청 폭발 진행,True
+INFO,2025-11-01T21:27:52.765,InputGrab,3
+INFO,2025-11-01T21:27:53.006,InputGrabBreak,3
+INFO,2025-11-01T21:27:53.686,InputGrab,5
+INFO,2025-11-01T21:27:54.073,InputGrabBreak,5
+INFO,2025-11-01T21:27:55.252,InputGrab,4
+INFO,2025-11-01T21:27:55.411,InputGrabBreak,4
+INFO,2025-11-01T21:27:56.040,InputGrab,4
+INFO,2025-11-01T21:27:56.359,InputGrabBreak,4
+INFO,2025-11-01T21:27:57.354,InputGrab,5
+INFO,2025-11-01T21:27:58.090,InputGrabBreak,5
+INFO,2025-11-01T21:27:58.460,InputGrab,4
+INFO,2025-11-01T21:27:58.806,InputGrabBreak,4
+INFO,2025-11-01T21:27:59.432,InputGrab,6
+INFO,2025-11-01T21:27:59.597,InputGrabBreak,6
+INFO,2025-11-01T21:27:59.864,InputGrab,5
+INFO,2025-11-01T21:28:00.666,InputGrabBreak,5
+INFO,2025-11-01T21:28:00.889,InputGrab,4
+INFO,2025-11-01T21:28:01.196,폭탄 3을(를) 감지했습니다.,True
+INFO,2025-11-01T21:28:01.197,충돌 감지: 3 즉시 폭발 처리 (CollisionExplosion 모드),True
+INFO,2025-11-01T21:28:01.197,[ClimaxController] 폭발 처리 모드: CollisionExplosion for 3,1
+INFO,2025-11-01T21:28:01.197,[BombManager] 폭탄 3이(가) 폭발했습니다.,1
+INFO,2025-11-01T21:28:01.197,[BombManager] 폭탄 4이(가) 생성되었습니다.,1
+INFO,2025-11-01T21:28:01.197,BlockToBomb,4 (Index: 4)
+INFO,2025-11-01T21:28:01.197,[ClimaxController] 폭탄 폭발: 3 at (12.15, -28.43, -1.26),1
+INFO,2025-11-01T21:28:01.197,[climax]폭발 요청 폭발 진행,True
+INFO,2025-11-01T21:28:01.413,InputGrabBreak,4
+INFO,2025-11-01T21:28:02.170,InputGrab,4
+INFO,2025-11-01T21:28:02.410,InputGrabBreak,4
+INFO,2025-11-01T21:28:03.352,InputGrab,5
+INFO,2025-11-01T21:28:04.347,InputGrabBreak,5
+INFO,2025-11-01T21:28:04.817,폭탄 4을(를) 감지했습니다.,True
+INFO,2025-11-01T21:28:04.817,충돌 감지: 4 즉시 폭발 처리 (CollisionExplosion 모드),True
+INFO,2025-11-01T21:28:04.817,[ClimaxController] 폭발 처리 모드: CollisionExplosion for 4,1
+INFO,2025-11-01T21:28:04.817,[BombManager] 폭탄 4이(가) 폭발했습니다.,1
+INFO,2025-11-01T21:28:04.817,[BombManager] 폭탄 5이(가) 생성되었습니다.,1
+INFO,2025-11-01T21:28:04.817,BlockToBomb,5 (Index: 5)
+INFO,2025-11-01T21:28:04.817,[ClimaxController] 폭탄 폭발: 4 at (1.34, -28.04, -19.41),1
+INFO,2025-11-01T21:28:04.817,[climax]폭발 요청 폭발 진행,True
+INFO,2025-11-01T21:28:04.891,InputGrab,6
+INFO,2025-11-01T21:28:05.315,InputGrabBreak,6
+INFO,2025-11-01T21:28:05.988,폭탄 5을(를) 감지했습니다.,True
+INFO,2025-11-01T21:28:05.988,충돌 감지: 5 즉시 폭발 처리 (CollisionExplosion 모드),True
+INFO,2025-11-01T21:28:05.988,[ClimaxController] 폭발 처리 모드: CollisionExplosion for 5,1
+INFO,2025-11-01T21:28:05.988,[BombManager] 폭탄 5이(가) 폭발했습니다.,1
+INFO,2025-11-01T21:28:05.988,[BombManager] 폭탄 6이(가) 생성되었습니다.,1
+INFO,2025-11-01T21:28:05.988,BlockToBomb,6 (Index: 6)
+INFO,2025-11-01T21:28:05.988,[ClimaxController] 폭탄 폭발: 5 at (14.34, -22.02, 23.26),1
+INFO,2025-11-01T21:28:05.988,[climax]폭발 요청 폭발 진행,True
+INFO,2025-11-01T21:28:07.546,CameraRotate,"(55.75,-16.25)"
+INFO,2025-11-01T21:28:08.049,InputGrab,8
+INFO,2025-11-01T21:28:08.547,InputGrabBreak,8
+INFO,2025-11-01T21:28:08.867,폭탄 6을(를) 감지했습니다.,True
+INFO,2025-11-01T21:28:08.867,충돌 감지: 6 즉시 폭발 처리 (CollisionExplosion 모드),True
+INFO,2025-11-01T21:28:08.867,[ClimaxController] 폭발 처리 모드: CollisionExplosion for 6,1
+INFO,2025-11-01T21:28:08.867,[BombManager] 폭탄 6이(가) 폭발했습니다.,1
+INFO,2025-11-01T21:28:08.867,[BombManager] 폭탄 7이(가) 생성되었습니다.,1
+INFO,2025-11-01T21:28:08.867,BlockToBomb,7 (Index: 7)
+INFO,2025-11-01T21:28:08.867,[ClimaxController] 폭탄 폭발: 6 at (21.38, -26.90, 70.49),1
+INFO,2025-11-01T21:28:08.867,[climax]폭발 요청 폭발 진행,True
+INFO,2025-11-01T21:28:10.052,InputGrab,8
+INFO,2025-11-01T21:28:13.187,InputGrabBreak,8
+INFO,2025-11-01T21:28:13.710,InputGrab,7
+INFO,2025-11-01T21:28:14.788,InputGrabBreak,7
+INFO,2025-11-01T21:28:15.803,CameraRotate,"(-85.25,-16.50)"
+INFO,2025-11-01T21:28:16.395,InputGrab,7
+INFO,2025-11-01T21:28:16.407,InputGrabBreak,7
+INFO,2025-11-01T21:28:19.986,폭탄 7을(를) 감지했습니다.,True
+INFO,2025-11-01T21:28:19.987,충돌 감지: 7 즉시 폭발 처리 (CollisionExplosion 모드),True
+INFO,2025-11-01T21:28:19.987,[ClimaxController] 폭발 처리 모드: CollisionExplosion for 7,1
+INFO,2025-11-01T21:28:19.987,[BombManager] 폭탄 7이(가) 폭발했습니다.,1
+INFO,2025-11-01T21:28:19.987,[BombManager] 폭탄 8이(가) 생성되었습니다.,1
+INFO,2025-11-01T21:28:19.987,BlockToBomb,8 (Index: 8)
+INFO,2025-11-01T21:28:19.987,[ClimaxController] 폭탄 폭발: 7 at (-59.34, -21.89, 117.35),1
+INFO,2025-11-01T21:28:19.987,[climax]폭발 요청 폭발 진행,True
+INFO,2025-11-01T21:28:20.028,CameraRotate,"(12.00,22.00)"
+INFO,2025-11-01T21:28:21.031,InputGrab,8
+INFO,2025-11-01T21:28:21.218,InputGrabBreak,8
+INFO,2025-11-01T21:28:22.605,InputGrab,9
+INFO,2025-11-01T21:28:23.807,폭탄 8을(를) 감지했습니다.,True
+INFO,2025-11-01T21:28:23.807,충돌 감지: 8 즉시 폭발 처리 (CollisionExplosion 모드),True
+INFO,2025-11-01T21:28:23.807,[ClimaxController] 폭발 처리 모드: CollisionExplosion for 8,1
+INFO,2025-11-01T21:28:23.807,[BombManager] 폭탄 8이(가) 폭발했습니다.,1
+INFO,2025-11-01T21:28:23.807,[BombManager] 폭탄 9이(가) 생성되었습니다.,1
+INFO,2025-11-01T21:28:23.807,BlockToBomb,9 (Index: 9)
+INFO,2025-11-01T21:28:23.808,[ClimaxController] 폭탄 폭발: 8 at (57.07, -24.19, -4.80),1
+INFO,2025-11-01T21:28:23.808,[climax]폭발 요청 폭발 진행,True
+INFO,2025-11-01T21:28:24.454,InputGrabBreak,9
+INFO,2025-11-01T21:28:26.936,폭탄 9을(를) 감지했습니다.,True
+INFO,2025-11-01T21:28:26.937,충돌 감지: 9 즉시 폭발 처리 (CollisionExplosion 모드),True
+INFO,2025-11-01T21:28:26.937,[ClimaxController] 폭발 처리 모드: CollisionExplosion for 9,1
+INFO,2025-11-01T21:28:26.937,[BombManager] 폭탄 9이(가) 폭발했습니다.,1
+INFO,2025-11-01T21:28:26.937,[ClimaxController] 폭탄 폭발: 9 at (-3.87, -19.85, -7.47),1
+INFO,2025-11-01T21:28:26.937,[climax]폭발 요청 폭발 진행,True
+INFO,2025-11-01T21:28:27.362,GameEnd,SequentialBombGame
+INFO,2025-11-01T21:28:29.348,CameraRotate,"(-29.50,-40.75)"
+INFO,2025-11-01T21:28:30.016,StageStar,3
+INFO,2025-11-01T21:28:30.016,StageClear,숫자
+INFO,2025-11-01T21:28:32.736,StageBegin,타워 크레인
+INFO,2025-11-01T21:28:32.736,InputGrab,root
+INFO,2025-11-01T21:28:34.596,CameraRotate,"(-1.25,18.00)"
+INFO,2025-11-01T21:28:35.908,CameraRotate,"(14.50,34.75)"
+INFO,2025-11-01T21:28:36.857,InputGrab,BombWeight
+INFO,2025-11-01T21:28:40.104,InputGrabBreak,BombWeight
+INFO,2025-11-01T21:28:41.201,CameraZoom,-3.000
+INFO,2025-11-01T21:28:41.210,CameraZoom,-3.000
+INFO,2025-11-01T21:28:41.220,CameraZoom,-3.000
+INFO,2025-11-01T21:28:41.230,CameraZoom,-3.000
+INFO,2025-11-01T21:28:41.240,CameraZoom,-3.000
+INFO,2025-11-01T21:28:41.260,CameraZoom,-3.000
+INFO,2025-11-01T21:28:41.300,CameraZoom,-3.000
+INFO,2025-11-01T21:28:42.139,CameraRotate,"(-7.25,-26.75)"
+INFO,2025-11-01T21:28:43.138,CameraPanning,"(-3.64,7.57)"
+INFO,2025-11-01T21:28:44.219,CameraPanning,"(-0.45,0.88)"
+INFO,2025-11-01T21:28:45.021,InputGrab,BombSnowFairy (1)
+INFO,2025-11-01T21:28:50.690,InputGrabBreak,BombSnowFairy (1)
+INFO,2025-11-01T21:28:52.250,CameraPanning,"(5.81,-11.86)"
+INFO,2025-11-01T21:28:53.142,CameraPanning,"(3.59,-7.48)"
+INFO,2025-11-01T21:28:54.227,폭탄 BombSnowFairy (1)을(를) 감지했습니다.,True
+INFO,2025-11-01T21:28:54.228,충돌 감지: BombSnowFairy (1) 즉시 폭발 처리 (CollisionExplosion 모드),True
+INFO,2025-11-01T21:28:54.228,[ClimaxController] 폭발 처리 모드: CollisionExplosion for BombSnowFairy (1),1
+INFO,2025-11-01T21:28:54.228,[BombManager] 폭탄 BombSnowFairy (1)이(가) 폭발했습니다.,1
+INFO,2025-11-01T21:28:54.228,[ClimaxController] 폭탄 폭발: BombSnowFairy (1) at (2.41, -19.07, -4.64),1
+INFO,2025-11-01T21:28:54.228,[climax]폭발 요청 폭발 진행,True
+INFO,2025-11-01T21:28:54.568,CameraPanning,"(-1.80,3.91)"
+INFO,2025-11-01T21:28:55.238,InputGrab,Bomb (9)
+INFO,2025-11-01T21:28:56.044,InputPushPull,Bomb (9)
+INFO,2025-11-01T21:28:56.610,InputPushPull,Bomb (9)
+INFO,2025-11-01T21:28:56.639,InputPushPull,Bomb (9)
+INFO,2025-11-01T21:28:56.661,InputPushPull,Bomb (9)
+INFO,2025-11-01T21:28:56.703,InputPushPull,Bomb (9)
+INFO,2025-11-01T21:28:57.072,InputGrabBreak,Bomb (9)
+INFO,2025-11-01T21:28:57.456,InputGrab,MastSection (7)
+INFO,2025-11-01T21:28:58.843,InputGrabBreak,MastSection (7)
+INFO,2025-11-01T21:28:59.867,폭탄 Bomb (9)을(를) 감지했습니다.,True
+INFO,2025-11-01T21:28:59.867,충돌 감지: Bomb (9) 즉시 폭발 처리 (CollisionExplosion 모드),True
+INFO,2025-11-01T21:28:59.867,[ClimaxController] 폭발 처리 모드: CollisionExplosion for Bomb (9),1
+INFO,2025-11-01T21:28:59.867,[BombManager] 폭탄 Bomb (9)이(가) 폭발했습니다.,1
+INFO,2025-11-01T21:28:59.868,[ClimaxController] 폭탄 폭발: Bomb (9) at (14.55, -19.07, -0.24),1
+INFO,2025-11-01T21:28:59.868,[climax]폭발 요청 폭발 진행,True
+INFO,2025-11-01T21:29:00.584,CameraRotate,"(-1.50,-8.00)"
+INFO,2025-11-01T21:29:01.373,CameraPanning,"(-3.27,10.13)"
+INFO,2025-11-01T21:29:02.075,InputGrab,Bomb (8)
+INFO,2025-11-01T21:29:02.279,InputPushPull,Bomb (8)
+INFO,2025-11-01T21:29:02.316,InputPushPull,Bomb (8)
+INFO,2025-11-01T21:29:02.336,InputPushPull,Bomb (8)
+INFO,2025-11-01T21:29:02.354,InputPushPull,Bomb (8)
+INFO,2025-11-01T21:29:02.365,InputPushPull,Bomb (8)
+INFO,2025-11-01T21:29:02.375,InputPushPull,Bomb (8)
+INFO,2025-11-01T21:29:02.388,InputPushPull,Bomb (8)
+INFO,2025-11-01T21:29:02.408,InputPushPull,Bomb (8)
+INFO,2025-11-01T21:29:02.929,InputGrabBreak,Bomb (8)
+INFO,2025-11-01T21:29:03.790,CameraRotate,"(-83.75,-1.50)"
+INFO,2025-11-01T21:29:05.447,CameraRotate,"(-79.50,5.25)"
+INFO,2025-11-01T21:29:06.128,폭탄 Bomb (8)을(를) 감지했습니다.,True
+INFO,2025-11-01T21:29:06.128,충돌 감지: Bomb (8) 즉시 폭발 처리 (CollisionExplosion 모드),True
+INFO,2025-11-01T21:29:06.128,[ClimaxController] 폭발 처리 모드: CollisionExplosion for Bomb (8),1
+INFO,2025-11-01T21:29:06.128,[BombManager] 폭탄 Bomb (8)이(가) 폭발했습니다.,1
+INFO,2025-11-01T21:29:06.128,[ClimaxController] 폭탄 폭발: Bomb (8) at (25.74, -19.49, 0.61),1
+INFO,2025-11-01T21:29:06.128,[climax]폭발 요청 폭발 진행,True
+INFO,2025-11-01T21:29:06.795,CameraRotate,"(-89.25,3.50)"
+INFO,2025-11-01T21:29:07.435,InputGrab,Bomb
+INFO,2025-11-01T21:29:07.589,InputGrabBreak,Bomb
+INFO,2025-11-01T21:29:08.516,InputGrab,Bomb
+INFO,2025-11-01T21:29:08.638,InputGrabBreak,Bomb
+INFO,2025-11-01T21:29:09.492,InputGrab,Bomb
+INFO,2025-11-01T21:29:10.138,InputGrabBreak,Bomb
+INFO,2025-11-01T21:29:11.042,CameraRotate,"(-18.00,-8.50)"
+INFO,2025-11-01T21:29:11.376,InputGrab,Bomb
+INFO,2025-11-01T21:29:11.543,InputPushPull,Bomb
+INFO,2025-11-01T21:29:11.568,InputPushPull,Bomb
+INFO,2025-11-01T21:29:11.585,InputPushPull,Bomb
+INFO,2025-11-01T21:29:11.598,InputPushPull,Bomb
+INFO,2025-11-01T21:29:11.611,InputPushPull,Bomb
+INFO,2025-11-01T21:29:11.626,InputPushPull,Bomb
+INFO,2025-11-01T21:29:11.931,InputGrabBreak,Bomb
+INFO,2025-11-01T21:29:12.724,InputGrab,BombSnowFairy
+INFO,2025-11-01T21:29:12.953,InputPushPull,BombSnowFairy
+INFO,2025-11-01T21:29:13.002,InputPushPull,BombSnowFairy
+INFO,2025-11-01T21:29:13.044,InputPushPull,BombSnowFairy
+INFO,2025-11-01T21:29:14.011,InputPushPull,BombSnowFairy
+INFO,2025-11-01T21:29:14.038,InputPushPull,BombSnowFairy
+INFO,2025-11-01T21:29:14.360,InputGrabBreak,BombSnowFairy
+INFO,2025-11-01T21:29:15.158,CameraRotate,"(51.50,13.50)"
+INFO,2025-11-01T21:29:15.297,폭탄 Bomb을(를) 감지했습니다.,True
+INFO,2025-11-01T21:29:15.297,충돌 감지: Bomb 즉시 폭발 처리 (CollisionExplosion 모드),True
+INFO,2025-11-01T21:29:15.297,[ClimaxController] 폭발 처리 모드: CollisionExplosion for Bomb,1
+INFO,2025-11-01T21:29:15.297,[BombManager] 폭탄 Bomb이(가) 폭발했습니다.,1
+INFO,2025-11-01T21:29:15.297,[ClimaxController] 폭탄 폭발: Bomb at (-3.24, -18.56, -14.38),1
+INFO,2025-11-01T21:29:15.297,[climax]폭발 요청 폭발 진행,True
+INFO,2025-11-01T21:29:15.834,InputGrab,Cube (5)
+INFO,2025-11-01T21:29:16.339,InputPushPull,Cube (5)
+INFO,2025-11-01T21:29:16.913,InputGrabBreak,Cube (5)
+INFO,2025-11-01T21:29:17.468,폭탄 BombSnowFairy을(를) 감지했습니다.,True
+INFO,2025-11-01T21:29:17.468,충돌 감지: BombSnowFairy 즉시 폭발 처리 (CollisionExplosion 모드),True
+INFO,2025-11-01T21:29:17.469,[ClimaxController] 폭발 처리 모드: CollisionExplosion for BombSnowFairy,1
+INFO,2025-11-01T21:29:17.469,[BombManager] 폭탄 BombSnowFairy이(가) 폭발했습니다.,1
+INFO,2025-11-01T21:29:17.469,[ClimaxController] 폭탄 폭발: BombSnowFairy at (-0.47, -19.10, -9.66),1
+INFO,2025-11-01T21:29:17.469,[climax]폭발 요청 폭발 진행,True
+INFO,2025-11-01T21:29:17.513,InputGrab,Cube (5)
+INFO,2025-11-01T21:29:17.743,InputGrabBreak,Cube (5)
+INFO,2025-11-01T21:29:18.805,CameraRotate,"(-82.50,-2.00)"
+INFO,2025-11-01T21:29:19.173,InputGrab,Cube (5)
+INFO,2025-11-01T21:29:19.369,InputGrabBreak,Cube (5)
+INFO,2025-11-01T21:29:20.672,CameraRotate,"(-51.25,1.50)"
+INFO,2025-11-01T21:29:21.358,InputGrab,Bomb (5)
+INFO,2025-11-01T21:29:21.695,InputGrabBreak,Bomb (5)
+INFO,2025-11-01T21:29:22.478,CameraZoom,3.000
+INFO,2025-11-01T21:29:22.500,CameraZoom,3.000
+INFO,2025-11-01T21:29:22.514,CameraZoom,3.000
+INFO,2025-11-01T21:29:22.530,CameraZoom,3.000
+INFO,2025-11-01T21:29:22.542,CameraZoom,3.000
+INFO,2025-11-01T21:29:22.564,CameraZoom,3.000
+INFO,2025-11-01T21:29:23.025,CameraZoom,-3.000
+INFO,2025-11-01T21:29:23.056,CameraZoom,-3.000
+INFO,2025-11-01T21:29:23.095,CameraZoom,-3.000
+INFO,2025-11-01T21:29:23.743,InputGrab,Bomb (6)
+INFO,2025-11-01T21:29:23.935,InputGrabBreak,Bomb (6)
+INFO,2025-11-01T21:29:24.917,폭탄 Bomb (5)을(를) 감지했습니다.,True
+INFO,2025-11-01T21:29:24.918,충돌 감지: Bomb (5) 즉시 폭발 처리 (CollisionExplosion 모드),True
+INFO,2025-11-01T21:29:24.918,[ClimaxController] 폭발 처리 모드: CollisionExplosion for Bomb (5),1
+INFO,2025-11-01T21:29:24.918,[BombManager] 폭탄 Bomb (5)이(가) 폭발했습니다.,1
+INFO,2025-11-01T21:29:24.918,[ClimaxController] 폭탄 폭발: Bomb (5) at (-10.28, -19.05, -9.25),1
+INFO,2025-11-01T21:29:24.918,[climax]폭발 요청 폭발 진행,True
+INFO,2025-11-01T21:29:27.379,폭탄 Bomb (6)을(를) 감지했습니다.,True
+INFO,2025-11-01T21:29:27.379,충돌 감지: Bomb (6) 즉시 폭발 처리 (CollisionExplosion 모드),True
+INFO,2025-11-01T21:29:27.379,[ClimaxController] 폭발 처리 모드: CollisionExplosion for Bomb (6),1
+INFO,2025-11-01T21:29:27.379,[BombManager] 폭탄 Bomb (6)이(가) 폭발했습니다.,1
+INFO,2025-11-01T21:29:27.379,[ClimaxController] 폭탄 폭발: Bomb (6) at (12.18, -19.04, 23.18),1
+INFO,2025-11-01T21:29:27.379,[climax]폭발 요청 폭발 진행,True
+INFO,2025-11-01T21:29:27.672,InputGrab,BombWeight
+INFO,2025-11-01T21:29:30.113,InputGrabBreak,BombWeight
+INFO,2025-11-01T21:29:30.609,CameraRotate,"(14.50,50.25)"
+INFO,2025-11-01T21:29:31.112,InputGrab,BombWeight
+INFO,2025-11-01T21:29:31.314,InputPushPull,BombWeight
+INFO,2025-11-01T21:29:31.329,InputPushPull,BombWeight
+INFO,2025-11-01T21:29:31.349,InputPushPull,BombWeight
+INFO,2025-11-01T21:29:31.366,InputPushPull,BombWeight
+INFO,2025-11-01T21:29:31.390,InputPushPull,BombWeight
+INFO,2025-11-01T21:29:31.420,InputPushPull,BombWeight
+INFO,2025-11-01T21:29:31.608,InputGrabBreak,BombWeight
+INFO,2025-11-01T21:29:31.725,CameraZoom,3.000
+INFO,2025-11-01T21:29:31.744,CameraZoom,3.000
+INFO,2025-11-01T21:29:31.783,CameraZoom,3.000
+INFO,2025-11-01T21:29:32.589,InputGrab,BombWeight
+INFO,2025-11-01T21:29:32.909,InputPushPull,BombWeight
+INFO,2025-11-01T21:29:33.460,InputPushPull,BombWeight
+INFO,2025-11-01T21:29:33.798,InputPushPull,BombWeight
+INFO,2025-11-01T21:29:34.147,InputPushPull,BombWeight
+INFO,2025-11-01T21:29:34.419,InputPushPull,BombWeight
+INFO,2025-11-01T21:29:34.472,InputPushPull,BombWeight
+INFO,2025-11-01T21:29:34.762,InputPushPull,BombWeight
+INFO,2025-11-01T21:29:35.024,InputPushPull,BombWeight
+INFO,2025-11-01T21:29:35.059,InputPushPull,BombWeight
+INFO,2025-11-01T21:29:35.272,InputPushPull,BombWeight
+INFO,2025-11-01T21:29:35.323,InputPushPull,BombWeight
+INFO,2025-11-01T21:29:35.367,InputPushPull,BombWeight
+INFO,2025-11-01T21:29:35.700,InputGrabBreak,BombWeight
+INFO,2025-11-01T21:29:37.680,CameraRotate,"(-61.50,-36.50)"
+INFO,2025-11-01T21:29:38.248,InputGrab,Bomb (4)
+INFO,2025-11-01T21:29:38.444,InputGrabBreak,Bomb (4)
+INFO,2025-11-01T21:29:39.553,CameraRotate,"(49.25,-34.25)"
+INFO,2025-11-01T21:29:40.638,폭탄 BombWeight을(를) 감지했습니다.,True
+INFO,2025-11-01T21:29:40.638,충돌 감지: BombWeight 즉시 폭발 처리 (CollisionExplosion 모드),True
+INFO,2025-11-01T21:29:40.638,[ClimaxController] 폭발 처리 모드: CollisionExplosion for BombWeight,1
+INFO,2025-11-01T21:29:40.638,[BombManager] 폭탄 BombWeight이(가) 폭발했습니다.,1
+INFO,2025-11-01T21:29:40.638,[ClimaxController] 폭탄 폭발: BombWeight at (-7.18, -17.83, 7.79),1
+INFO,2025-11-01T21:29:40.638,[climax]폭발 요청 폭발 진행,True
+INFO,2025-11-01T21:29:42.288,폭탄 Bomb (4)을(를) 감지했습니다.,True
+INFO,2025-11-01T21:29:42.288,충돌 감지: Bomb (4) 즉시 폭발 처리 (CollisionExplosion 모드),True
+INFO,2025-11-01T21:29:42.288,[ClimaxController] 폭발 처리 모드: CollisionExplosion for Bomb (4),1
+INFO,2025-11-01T21:29:42.288,[BombManager] 폭탄 Bomb (4)이(가) 폭발했습니다.,1
+INFO,2025-11-01T21:29:42.288,[ClimaxController] 폭탄 폭발: Bomb (4) at (-15.92, -19.11, 34.66),1
+INFO,2025-11-01T21:29:42.288,[climax]폭발 요청 폭발 진행,True
+INFO,2025-11-01T21:29:42.817,InputGrab,Hook
+INFO,2025-11-01T21:29:43.051,InputGrabBreak,Hook
+INFO,2025-11-01T21:29:44.803,InputGrab,Movable (3)
+INFO,2025-11-01T21:29:45.369,StageStar,2
+INFO,2025-11-01T21:29:45.369,StageClear,타워 크레인
+INFO,2025-11-01T21:29:45.436,InputGrabBreak,Movable (3)
+INFO,2025-11-01T21:29:48.717,StageBegin,튜토리얼
+INFO,2025-11-01T21:29:48.718,InputGrab,root
+WARNING,2025-11-01T21:29:48.726,MissingReference,[ClearManager] StageGoalUI가 할당되지 않았습니다. Inspector에서 할당해주세요.
+INFO,2025-11-01T21:29:50.303,CameraRotate,"(-164.75,2.25)"
+INFO,2025-11-01T21:29:50.968,InputGrab,Bomb
+INFO,2025-11-01T21:29:51.278,InputGrabBreak,Bomb
+INFO,2025-11-01T21:29:52.682,CameraRotate,"(-6.50,37.25)"
+INFO,2025-11-01T21:29:53.455,폭탄 Bomb을(를) 감지했습니다.,True
+INFO,2025-11-01T21:29:53.455,충돌 감지: Bomb 즉시 폭발 처리 (CollisionExplosion 모드),True
+INFO,2025-11-01T21:29:53.456,[ClimaxController] 폭발 처리 모드: CollisionExplosion for Bomb,1
+INFO,2025-11-01T21:29:53.456,[BombManager] 폭탄 Bomb이(가) 폭발했습니다.,1
+INFO,2025-11-01T21:29:53.456,[ClimaxController] 폭탄 폭발: Bomb at (1.60, -19.01, -92.42),1
+INFO,2025-11-01T21:29:53.456,[climax]폭발 요청 폭발 진행,True
+INFO,2025-11-01T21:29:57.820,CameraRotate,"(-11.25,-0.25)"
+INFO,2025-11-01T21:29:58.032,CameraZoom,1.000
+INFO,2025-11-01T21:29:58.053,CameraZoom,1.000
+INFO,2025-11-01T21:29:58.061,CameraZoom,1.000
+INFO,2025-11-01T21:29:58.072,CameraZoom,1.000
+INFO,2025-11-01T21:29:58.079,CameraZoom,1.000
+INFO,2025-11-01T21:29:58.086,CameraZoom,1.000
+INFO,2025-11-01T21:29:58.093,CameraZoom,1.000
+INFO,2025-11-01T21:29:58.105,CameraZoom,1.000
+INFO,2025-11-01T21:29:58.370,CameraZoom,1.000
+INFO,2025-11-01T21:29:58.391,CameraZoom,1.000
+INFO,2025-11-01T21:29:58.404,CameraZoom,1.000
+INFO,2025-11-01T21:29:58.418,CameraZoom,1.000
+INFO,2025-11-01T21:29:58.428,CameraZoom,1.000
+INFO,2025-11-01T21:29:58.438,CameraZoom,1.000
+INFO,2025-11-01T21:29:58.451,CameraZoom,1.000
+INFO,2025-11-01T21:29:59.367,CameraPanning,"(-1.83,10.70)"
+INFO,2025-11-01T21:30:00.599,CameraPanning,"(0.75,1.27)"
+INFO,2025-11-01T21:30:02.995,CameraPanning,"(-0.41,2.25)"
+INFO,2025-11-01T21:30:03.708,InputGrab,Bomb
+INFO,2025-11-01T21:30:03.950,InputPushPull,Bomb
+INFO,2025-11-01T21:30:03.963,InputPushPull,Bomb
+INFO,2025-11-01T21:30:03.974,InputPushPull,Bomb
+INFO,2025-11-01T21:30:03.982,InputPushPull,Bomb
+INFO,2025-11-01T21:30:03.991,InputPushPull,Bomb
+INFO,2025-11-01T21:30:03.998,InputPushPull,Bomb
+INFO,2025-11-01T21:30:04.008,InputPushPull,Bomb
+INFO,2025-11-01T21:30:04.020,InputPushPull,Bomb
+INFO,2025-11-01T21:30:04.766,InputGrabBreak,Bomb
+INFO,2025-11-01T21:30:06.446,CameraRotate,"(11.25,6.00)"
+INFO,2025-11-01T21:30:06.754,폭탄 Bomb을(를) 감지했습니다.,True
+INFO,2025-11-01T21:30:06.754,충돌 감지: Bomb 즉시 폭발 처리 (CollisionExplosion 모드),True
+INFO,2025-11-01T21:30:06.754,[ClimaxController] 폭발 처리 모드: CollisionExplosion for Bomb,1
+INFO,2025-11-01T21:30:06.754,[BombManager] 폭탄 Bomb이(가) 폭발했습니다.,1
+INFO,2025-11-01T21:30:06.754,[ClimaxController] 폭탄 폭발: Bomb at (13.58, -17.99, -58.83),1
+INFO,2025-11-01T21:30:06.754,[climax]폭발 요청 폭발 진행,True
+INFO,2025-11-01T21:30:08.863,InputGrab,Bomb
+INFO,2025-11-01T21:30:09.025,InputGrabBreak,Bomb
+INFO,2025-11-01T21:30:10.391,CameraRotate,"(79.50,-8.50)"
+INFO,2025-11-01T21:30:11.183,CameraPanning,"(0.23,0.19)"
+INFO,2025-11-01T21:30:11.924,폭탄 Bomb을(를) 감지했습니다.,True
+INFO,2025-11-01T21:30:11.924,충돌 감지: Bomb 즉시 폭발 처리 (CollisionExplosion 모드),True
+INFO,2025-11-01T21:30:11.924,[ClimaxController] 폭발 처리 모드: CollisionExplosion for Bomb,1
+INFO,2025-11-01T21:30:11.924,[BombManager] 폭탄 Bomb이(가) 폭발했습니다.,1
+INFO,2025-11-01T21:30:11.924,[ClimaxController] 폭탄 폭발: Bomb at (5.12, -18.95, -39.19),1
+INFO,2025-11-01T21:30:11.924,[climax]폭발 요청 폭발 진행,True
+INFO,2025-11-01T21:30:13.622,CameraRotate,"(-51.75,-12.00)"
+INFO,2025-11-01T21:30:13.908,CameraZoom,1.000
+INFO,2025-11-01T21:30:13.930,CameraZoom,1.000
+INFO,2025-11-01T21:30:13.951,CameraZoom,1.000
+INFO,2025-11-01T21:30:13.964,CameraZoom,1.000
+INFO,2025-11-01T21:30:13.975,CameraZoom,1.000
+INFO,2025-11-01T21:30:13.982,CameraZoom,1.000
+INFO,2025-11-01T21:30:13.994,CameraZoom,1.000
+INFO,2025-11-01T21:30:14.005,CameraZoom,1.000
+INFO,2025-11-01T21:30:14.741,CameraPanning,"(8.14,2.42)"
+INFO,2025-11-01T21:30:15.245,CameraPanning,"(7.29,1.74)"
+INFO,2025-11-01T21:30:15.749,CameraRotate,"(71.75,14.00)"
+INFO,2025-11-01T21:30:16.212,CameraPanning,"(-4.12,0.43)"
+INFO,2025-11-01T21:30:16.689,CameraPanning,"(-4.55,0.99)"
+INFO,2025-11-01T21:30:17.142,CameraPanning,"(-0.71,0.54)"
+INFO,2025-11-01T21:30:17.697,CameraPanning,"(6.16,2.40)"
+INFO,2025-11-01T21:30:19.817,CameraRotate,"(-51.00,15.25)"
+INFO,2025-11-01T21:30:20.565,CameraPanning,"(-9.89,-0.19)"
+INFO,2025-11-01T21:30:20.886,InputGrab,Bomb (4)
+INFO,2025-11-01T21:30:21.034,InputGrabBreak,Bomb (4)
+INFO,2025-11-01T21:30:21.655,InputGrab,Bomb (4)
+INFO,2025-11-01T21:30:21.928,InputGrabBreak,Bomb (4)
+INFO,2025-11-01T21:30:22.741,InputGrab,Bomb (2)
+INFO,2025-11-01T21:30:24.080,InputGrabBreak,Bomb (2)
+INFO,2025-11-01T21:30:24.763,InputGrab,gift (1)
+INFO,2025-11-01T21:30:25.009,InputGrabBreak,gift (1)
+INFO,2025-11-01T21:30:25.424,폭탄 Bomb (4)을(를) 감지했습니다.,True
+INFO,2025-11-01T21:30:25.424,충돌 감지: Bomb (4) 즉시 폭발 처리 (CollisionExplosion 모드),True
+INFO,2025-11-01T21:30:25.425,[ClimaxController] 폭발 처리 모드: CollisionExplosion for Bomb (4),1
+INFO,2025-11-01T21:30:25.425,[BombManager] 폭탄 Bomb (4)이(가) 폭발했습니다.,1
+INFO,2025-11-01T21:30:25.425,[ClimaxController] 폭탄 폭발: Bomb (4) at (-25.68, -17.46, 6.28),1
+INFO,2025-11-01T21:30:25.425,[climax]폭발 요청 폭발 진행,True
+INFO,2025-11-01T21:30:28.694,폭탄 Bomb (2)을(를) 감지했습니다.,True
+INFO,2025-11-01T21:30:28.695,충돌 감지: Bomb (2) 즉시 폭발 처리 (CollisionExplosion 모드),True
+INFO,2025-11-01T21:30:28.695,[ClimaxController] 폭발 처리 모드: CollisionExplosion for Bomb (2),1
+INFO,2025-11-01T21:30:28.695,[BombManager] 폭탄 Bomb (2)이(가) 폭발했습니다.,1
+INFO,2025-11-01T21:30:28.695,[ClimaxController] 폭탄 폭발: Bomb (2) at (-46.26, -18.94, -3.33),1
+INFO,2025-11-01T21:30:28.695,[climax]폭발 요청 폭발 진행,True
+INFO,2025-11-01T21:30:29.166,CameraRotate,"(-8.50,-11.35)"
+INFO,2025-11-01T21:30:29.683,CameraRotate,"(-136.00,13.00)"
+INFO,2025-11-01T21:30:30.328,CameraRotate,"(151.25,-15.25)"
+INFO,2025-11-01T21:30:30.842,CameraRotate,"(40.00,-11.75)"
+INFO,2025-11-01T21:30:31.779,StageStar,3
+INFO,2025-11-01T21:30:31.779,StageClear,튜토리얼
+INFO,2025-11-01T21:30:33.032,InputGrab,ToyBox (45)
+INFO,2025-11-01T21:30:33.169,InputGrabBreak,ToyBox (45)
+INFO,2025-11-01T21:30:44.207,InputGrab,NextStage8
+INFO,2025-11-01T21:30:44.426,InputGrabBreak,NextStage8
