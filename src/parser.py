@@ -80,11 +80,13 @@ def _normalize_columns(df: pd.DataFrame) -> pd.DataFrame:
 def load_csv(path: Path, player_id: str | None = None) -> pd.DataFrame:
     path = Path(path)
     # on_bad_lines='skip': 잘못된 형식의 라인 건너뛰기 (pandas 1.3+)
-    try:
-        df = pd.read_csv(path, encoding="utf-8", on_bad_lines='skip')
-    except TypeError:
-        # 구버전 pandas의 경우
-        df = pd.read_csv(path, encoding="utf-8", error_bad_lines=False, warn_bad_lines=True)
+    # encoding_errors='replace': 인코딩 오류 발생 시 대체 문자로 변환
+    df = pd.read_csv(
+        path, 
+        encoding="utf-8",
+        on_bad_lines='skip',
+        encoding_errors='replace'
+    )
     df = _normalize_columns(df)
     df["PlayerID"] = player_id or filename_to_player_id(path)
     return df
